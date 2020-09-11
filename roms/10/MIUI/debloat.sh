@@ -18,8 +18,9 @@ rm -rf $1/app/Joyose
 rm -rf $1/app/mab
 rm -rf $1/app/HybridAccessory
 rm -rf $1/app/HybridPlatform
-rm -rf $1/app/cit
+rm -rf $1/app/Cit
 rm -rf $1/app/Mipay
+rm -rf $1/app/Misound
 rm -rf $1/app/MiPlayClient
 rm -rf $1/app/AnalyticsCore
 rm -rf $1/app/KSICibaEngine
@@ -36,7 +37,6 @@ rm -rf $1/priv-app/MiuiVideo
 rm -rf $1/priv-app/MiGameCenterSDKService
 rm -rf $1/priv-app/BackupRestoreConfirmation
 rm -rf $1/priv-app/Backup
-rm -rf $1/priv-app/Brower
 rm -rf $1/priv-app/Calendar
 rm -rf $1/priv-app/NewHome
 rm -rf $1/priv-app/QuickSearchBox
