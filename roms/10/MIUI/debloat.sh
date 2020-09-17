@@ -25,5 +25,9 @@ rm -rf $1/data-app/MiLiveAssistant
 rm -rf $1/data-app/SmartTravel
 rm -rf $1/data-app/VipAccount
 rm -rf $1/data-app/XMPass
+rm -rf $1/data/app/Userguide
+rm -rf $1/data/app/MiDrive
+rm -rf $1/System/app/Stk
+rm -rf $1/System/priv-app/MiService
 
 # do nothing
