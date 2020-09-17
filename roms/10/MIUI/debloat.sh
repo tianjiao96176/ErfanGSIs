@@ -17,7 +17,6 @@ rm -rf $1/app/KSICibaEngine
 rm -rf $1/app/MiLinkService2
 rm -rf $1/app/MiuiBugReport
 rm -rf $1/app/YouDaoEngine
-rm -rf $1/priv-app/MiuiCamera
 rm -rf $1/priv-app/MiGameCenterSDKService
 rm -rf $1/priv-app/NewHome
 rm -rf $1/data-app/GameCenter
