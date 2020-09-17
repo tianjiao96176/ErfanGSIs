@@ -20,7 +20,6 @@ rm -rf $1/app/HybridAccessory
 rm -rf $1/app/HybridPlatform
 rm -rf $1/app/Cit
 rm -rf $1/app/Mipay
-rm -rf $1/app/Misound
 rm -rf $1/app/MiPlayClient
 rm -rf $1/app/AnalyticsCore
 rm -rf $1/app/KSICibaEngine
@@ -33,11 +32,7 @@ rm -rf $1/app/PrintSpooler
 rm -rf $1/app/SensorTestTool
 rm -rf $1/app/YouDaoEngine
 rm -rf $1/priv-app/MiuiCamera
-rm -rf $1/priv-app/MiuiVideo
 rm -rf $1/priv-app/MiGameCenterSDKService
-rm -rf $1/priv-app/BackupRestoreConfirmation
-rm -rf $1/priv-app/Backup
-rm -rf $1/priv-app/Calendar
 rm -rf $1/priv-app/NewHome
 rm -rf $1/priv-app/QuickSearchBox
 rm -rf $1/data-app/GameCenter
@@ -45,7 +40,6 @@ rm -rf $1/data-app/Health
 rm -rf $1/data-app/MiLiveAssistant
 rm -rf $1/data-app/SmartTravel
 rm -rf $1/data-app/VipAccount
-rm -rf $1/data-app/Weather
 rm -rf $1/data-app/XMPass
 
 # do nothing
